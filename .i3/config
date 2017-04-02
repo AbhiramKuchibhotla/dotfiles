@@ -250,3 +250,6 @@ exec_always feh --bg-scale /home/abhiram/Pictures/Wallpapers/wallhaven-275529.pn
 
 # Enable Compositing
 exec_always compton
+
+# Enable the Network Manager Applet
+exec --no-startup-id nm-applet

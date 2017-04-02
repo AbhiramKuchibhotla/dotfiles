@@ -20,7 +20,7 @@
  '(fci-rule-color "#373b41")
  '(package-selected-packages
    (quote
-    (company-racer company-try-hard company-quickhelp company-shell company-php company-go company-c-headers ix magit rhtml-mode cider smart-mode-line-powerline-theme smart-mode-line aggressive-indent counsel-projectile rainbow-delimiters racer evil-smartparens flycheck js2-mode web-mode php-mode company-web company which-key zweilight-theme color-theme-sanityinc-tomorrow counsel ivy evil)))
+    (omnisharp csharp-mode company-racer company-try-hard company-quickhelp company-shell company-php company-go company-c-headers ix magit rhtml-mode cider smart-mode-line-powerline-theme smart-mode-line aggressive-indent counsel-projectile rainbow-delimiters racer evil-smartparens flycheck js2-mode web-mode php-mode company-web company which-key zweilight-theme color-theme-sanityinc-tomorrow counsel ivy evil)))
  '(vc-annotate-background nil)
  '(vc-annotate-color-map
    (quote
