@@ -16,11 +16,11 @@
  '(custom-enabled-themes (quote (zweilight)))
  '(custom-safe-themes
    (quote
-    ("5d3e0746023fc5e246eb3e0e48c1ccb5ce0387fc4273896c6cf02ee349c2eba8" "82d2cac368ccdec2fcc7573f24c3f79654b78bf133096f9b40c20d97ec1d8016" "1b8d67b43ff1723960eb5e0cba512a2c7a2ad544ddb2533a90101fd1852b426e" "bb08c73af94ee74453c90422485b29e5643b73b05e8de029a6909af6a3fb3f58" "06f0b439b62164c6f8f84fdda32b62fb50b6d00e8b01c2208e55543a6337433a" default)))
+    ("2d32455b3acc27bef4dc912f74c14a371cf7167a075bbd4f90ac14e761359e5b" "5d3e0746023fc5e246eb3e0e48c1ccb5ce0387fc4273896c6cf02ee349c2eba8" "82d2cac368ccdec2fcc7573f24c3f79654b78bf133096f9b40c20d97ec1d8016" "1b8d67b43ff1723960eb5e0cba512a2c7a2ad544ddb2533a90101fd1852b426e" "bb08c73af94ee74453c90422485b29e5643b73b05e8de029a6909af6a3fb3f58" "06f0b439b62164c6f8f84fdda32b62fb50b6d00e8b01c2208e55543a6337433a" default)))
  '(fci-rule-color "#373b41")
  '(package-selected-packages
    (quote
-    (omnisharp csharp-mode company-racer company-try-hard company-quickhelp company-shell company-php company-go company-c-headers ix magit rhtml-mode cider smart-mode-line-powerline-theme smart-mode-line aggressive-indent counsel-projectile rainbow-delimiters racer evil-smartparens flycheck js2-mode web-mode php-mode company-web company which-key zweilight-theme color-theme-sanityinc-tomorrow counsel ivy evil)))
+    (nord-theme challenger-deep-theme omnisharp csharp-mode company-racer company-try-hard company-quickhelp company-shell company-php company-go company-c-headers ix magit rhtml-mode cider smart-mode-line-powerline-theme smart-mode-line aggressive-indent counsel-projectile rainbow-delimiters racer evil-smartparens flycheck js2-mode web-mode php-mode company-web company which-key zweilight-theme color-theme-sanityinc-tomorrow counsel ivy evil)))
  '(vc-annotate-background nil)
  '(vc-annotate-color-map
    (quote
@@ -72,6 +72,7 @@
 (dired-async-mode 1)
 (async-bytecomp-package-mode 1)
 (define-key global-map (kbd "RET") 'newline-and-indent)
+(setq company-idle-delay 0) ;; Makes Company Work Instantly
 
 ;; Powerline Stuff
 (setq sml/no-confirm-load-theme t)

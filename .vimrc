@@ -2,8 +2,6 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-colorscheme nord
-
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
