@@ -1,7 +1,3 @@
-execute pathogen#infect()
-syntax on
-filetype plugin indent on
-
 set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*

@@ -73,6 +73,7 @@
 (async-bytecomp-package-mode 1)
 (define-key global-map (kbd "RET") 'newline-and-indent)
 (setq company-idle-delay 0) ;; Makes Company Work Instantly
+(setq omnisharp-server-executable-path "/opt/omnisharp-roslyn/OmniSharp.exe")
 
 ;; Powerline Stuff
 (setq sml/no-confirm-load-theme t)
@@ -110,3 +111,6 @@
 (add-to-list 'auto-mode-alist '("\\.tpl\\.php\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.html\\.twig\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.html?\\'" . web-mode))
+
+;; Omnisharp stuff
+(add-hook 'csharp-mode-hook 'omnisharp-mode)
