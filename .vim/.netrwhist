@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/usr/share/applications'
 let g:netrw_dirhist_2='/home/abhiram/Git/dotfiles/.vim/bundle/nord-vim'
+let g:netrw_dirhist_3='/home/abhiram/.local/share/gnome-shell/extensions/freon@UshakovVasilii_Github.yahoo.com/schemas'
+let g:netrw_dirhist_4='/etc/gconf/gconf.xml.defaults'

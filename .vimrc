@@ -64,6 +64,7 @@ Plugin 'sirver/ultisnips'
 Plugin 'honza/vim-snippets'
 Plugin 'shawncplus/phpcomplete.vim'
 Plugin 'npacker/vim-css3complete'
+Plugin 'pangloss/vim-javascript'
 
 call vundle#end() 
 
