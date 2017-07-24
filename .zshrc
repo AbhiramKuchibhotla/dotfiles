@@ -34,8 +34,10 @@ antigen apply
 
 #Exports
 export TERM="xterm-256color"
-export EDITOR="vim"
+export EDITOR="nvim"
 
 #Aliases
 alias screenfetch='screenfetch -D Arch'
 alias neofetch='neofetch --disable title'
+alias tc1='ssh adminuser@128.199.163.86'
+alias usrshort='curl -F c=@- https://ptpb.pw/u <<<'
