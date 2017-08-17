@@ -35,9 +35,12 @@ antigen apply
 #Exports
 export TERM="xterm-256color"
 export EDITOR="nvim"
+export AWS_ACCESS_KEY_ID="AKIAI7V6YRCXJEDHLORA"
+export AWS_SECRET_ACCESS_KEY="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"
 
 #Aliases
 alias screenfetch='screenfetch -D Arch'
 alias neofetch='neofetch --disable title'
 alias tc1='ssh adminuser@128.199.163.86'
-alias usrshort='curl -F c=@- https://ptpb.pw/u <<<'
+alias urlshort='curl -F c=@- https://ptpb.pw/u <<<'
+alias s3put='s3-parallel-put'
