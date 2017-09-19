@@ -3,8 +3,9 @@
 ;;; Code:
 (add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "ix" "ix.el" (22733 40642 792055 214000))
-;;; Generated autoloads from ix.el
+;;;### (autoloads nil "ix" "../../../../../.emacs.d/elpa/ix-20131027.929/ix.el"
+;;;;;;  "aa600b0aa3c25332989473b922167eac")
+;;; Generated autoloads from ../../../../../.emacs.d/elpa/ix-20131027.929/ix.el
 
 (autoload 'ix-delete "ix" "\
 Delete a post, this requires you to be logged in. Specify the
@@ -26,6 +27,12 @@ Browse a paste from http://ix.io, given an input of either a
    it has to be done manually
 
 \(fn IX-URL)" t nil)
+
+;;;***
+
+;;;### (autoloads nil nil ("../../../../../.emacs.d/elpa/ix-20131027.929/ix-autoloads.el"
+;;;;;;  "../../../../../.emacs.d/elpa/ix-20131027.929/ix.el") (22966
+;;;;;;  11945 472585 799000))
 
 ;;;***
 

@@ -1,4 +1,4 @@
-source /usr/share/zsh/share/antigen.zsh
+source /home/abhiram/Git/antigen.zsh
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
 HISTSIZE=1000
@@ -35,6 +35,7 @@ antigen apply
 #Exports
 export TERM="xterm-256color"
 export EDITOR="nvim"
+unsetopt nomatch
 
 #Aliases
 alias screenfetch='screenfetch -D Arch'
