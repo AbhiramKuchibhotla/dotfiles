@@ -1,0 +1,17 @@
+#Set Monitors
+xrandr --output HDMI-1 --off --output DP-1 --mode 1600x900 --pos 0x0 --rotate normal --output eDP-1 --primary --mode 1366x768 --pos 1600x42 --rotate normal --output HDMI-2 --off
+
+#Set Wallpaper
+feh --bg-scale /home/abhiram/Pictures/Wallpapers/yD5I5WH.png
+
+#Enable Compton
+compton &
+
+#Start the Dock
+plank &
+
+#Start the Panel (xfce4-panel)
+xfce4-panel &
+
+#Start the Network Manager Applet
+nm-applet &
