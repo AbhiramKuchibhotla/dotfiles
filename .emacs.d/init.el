@@ -228,6 +228,23 @@
 (use-package 
   yaml-mode)
 
+;; Rust
+(use-package
+  rust-mode 
+  :defer t 
+  :config ;;(add-hook 'rust-mode-hook #'flycheck-mode)
+  (add-hook 'rust-mode-hook #'racer-mode)
+  (add-hook 'rust-mode-hook #'company-mode)
+  (define-key rust-mode-map (kbd "M-.") #'racer-find-definition)
+
+(use-package 
+  cargo 
+  :defer t 
+  :config (add-hook 'rust-mode-hook 'cargo-minor-mode))
+
+(use-package 
+  racer)
+
 ;; Unix config files mode
 (use-package 
   conf-mode)
@@ -297,7 +314,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(delete-selection-mode nil)
- '(package-selected-packages (quote (company-ansible use-package))))
+ '(package-selected-packages (quote (rust-mode company-ansible use-package))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

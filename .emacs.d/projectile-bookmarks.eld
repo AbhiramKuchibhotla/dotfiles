@@ -1,1 +1,1 @@
-("~/Git/dotfiles/")
+("~/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/" "~/Git/dotfiles/" "~/Projects/gnome-discord/" "~/Git/altego/")
