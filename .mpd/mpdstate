@@ -1,0 +1,69 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 53
+time: 1.660000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Kimi No Na Wa/02 - Mitsuba no Tsuugaku.mp3
+1:Kimi No Na Wa/03 - Ito Mamoru Koukou.mp3
+2:Kimi No Na Wa/04 - Hajimete no, Tokyo.mp3
+3:Kimi No Na Wa/05 - Akogare Cafe.mp3
+4:Kimi No Na Wa/06 - Okudera Senpai no Theme.mp3
+5:Kimi No Na Wa/07 - Futari no Ihen.mp3
+6:Kimi No Na Wa/08 - Zen Zen Zense (Movie Ver.).mp3
+7:Kimi No Na Wa/09 - Gojintai.mp3
+8:Kimi No Na Wa/10 - Date.mp3
+9:Kimi No Na Wa/11 - Akimatsuri.mp3
+10:Kimi No Na Wa/12 - Kioku o Yobiokosu Taki.mp3
+11:Kimi No Na Wa/13 - Hida Tanbou.mp3
+12:Kimi No Na Wa/14 - Kieta Machi.mp3
+13:Kimi No Na Wa/15 - Toshokan.mp3
+14:Kimi No Na Wa/16 - Yume Tourou.mp3
+15:Kimi No Na Wa/17 - Gojintai e Futatabi.mp3
+16:Kimi No Na Wa/18 - Kuchikamishu Trip.mp3
+17:Kimi No Na Wa/19 - Sakusen Kaigi.mp3
+18:Kimi No Na Wa/20 - Chouchou Settoku.mp3
+19:Kimi No Na Wa/21 - Mitsuba no Theme.mp3
+20:Kimi No Na Wa/22 - Mienai Futari.mp3
+21:Kimi No Na Wa/23 - Kata Wareji.mp3
+22:Kimi No Na Wa/24 - Sparkle (Movie Ver.).mp3
+23:Kimi No Na Wa/25 - Date 2.mp3
+24:Kimi No Na Wa/26 - Nan Demonai ya (Movie Edit).mp3
+25:Kimi No Na Wa/27 - Nan Demonai ya (Movie Ver.).mp3
+26:Kimi No Na Wa/Kimi No Na Wa [OST].zip/01 - Yume Tourou.mp3
+27:Kimi No Na Wa/Kimi No Na Wa [OST].zip/02 - Mitsuba no Tsuugaku.mp3
+28:Kimi No Na Wa/Kimi No Na Wa [OST].zip/03 - Ito Mamoru Koukou.mp3
+29:Kimi No Na Wa/Kimi No Na Wa [OST].zip/04 - Hajimete no, Tokyo.mp3
+30:Kimi No Na Wa/Kimi No Na Wa [OST].zip/05 - Akogare Cafe.mp3
+31:Kimi No Na Wa/Kimi No Na Wa [OST].zip/06 - Okudera Senpai no Theme.mp3
+32:Kimi No Na Wa/Kimi No Na Wa [OST].zip/07 - Futari no Ihen.mp3
+33:Kimi No Na Wa/Kimi No Na Wa [OST].zip/08 - Zen Zen Zense (Movie Ver.).mp3
+34:Kimi No Na Wa/Kimi No Na Wa [OST].zip/09 - Gojintai.mp3
+35:Kimi No Na Wa/Kimi No Na Wa [OST].zip/10 - Date.mp3
+36:Kimi No Na Wa/Kimi No Na Wa [OST].zip/11 - Akimatsuri.mp3
+37:Kimi No Na Wa/Kimi No Na Wa [OST].zip/12 - Kioku o Yobiokosu Taki.mp3
+38:Kimi No Na Wa/Kimi No Na Wa [OST].zip/13 - Hida Tanbou.mp3
+39:Kimi No Na Wa/Kimi No Na Wa [OST].zip/14 - Kieta Machi.mp3
+40:Kimi No Na Wa/Kimi No Na Wa [OST].zip/15 - Toshokan.mp3
+41:Kimi No Na Wa/Kimi No Na Wa [OST].zip/16 - Yume Tourou.mp3
+42:Kimi No Na Wa/Kimi No Na Wa [OST].zip/17 - Gojintai e Futatabi.mp3
+43:Kimi No Na Wa/Kimi No Na Wa [OST].zip/18 - Kuchikamishu Trip.mp3
+44:Kimi No Na Wa/Kimi No Na Wa [OST].zip/19 - Sakusen Kaigi.mp3
+45:Kimi No Na Wa/Kimi No Na Wa [OST].zip/20 - Chouchou Settoku.mp3
+46:Kimi No Na Wa/Kimi No Na Wa [OST].zip/21 - Mitsuba no Theme.mp3
+47:Kimi No Na Wa/Kimi No Na Wa [OST].zip/22 - Mienai Futari.mp3
+48:Kimi No Na Wa/Kimi No Na Wa [OST].zip/23 - Kata Wareji.mp3
+49:Kimi No Na Wa/Kimi No Na Wa [OST].zip/24 - Sparkle (Movie Ver.).mp3
+50:Kimi No Na Wa/Kimi No Na Wa [OST].zip/25 - Date 2.mp3
+51:Kimi No Na Wa/Kimi No Na Wa [OST].zip/26 - Nan Demonai ya (Movie Edit).mp3
+52:Kimi No Na Wa/Kimi No Na Wa [OST].zip/27 - Nan Demonai ya (Movie Ver.).mp3
+53:Kimi No Na Wa/01 - Yume Tourou.mp3
+playlist_end

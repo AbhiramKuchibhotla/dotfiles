@@ -1,1 +1,1 @@
-("~/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/" "~/Git/dotfiles/" "~/Projects/gnome-discord/" "~/Git/altego/")
+("~/.cache/pacaur/discord-always-canary/" "~/Projects/AdventOfCode/day1/" "~/Projects/trixi-cli/" "~/Projects/gnome-discord/" "~/Projects/RustTut/Tut1/" "~/Git/dotfiles/" "~/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/" "~/Git/altego/")

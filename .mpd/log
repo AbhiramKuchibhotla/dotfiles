@@ -1,0 +1,14 @@
+Dec 04 20:43 : exception: Failed to open /home/abhiram/.mpd/state: No such file or directory
+Dec 04 20:43 : exception: Failed to access /home/abhiram/music: No such file or directory
+Dec 04 20:44 : exception: Failed to open /home/abhiram/.mpd/state: No such file or directory
+Dec 04 20:45 : exception: Failed to open /home/abhiram/.mpd/state: No such file or directory
+Dec 04 20:45 : client: [0] opened from [::1]:39396
+Dec 04 20:45 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Dec 04 20:45 : client: [0] closed
+Dec 04 20:45 : client: [1] opened from [::1]:39418
+Dec 04 20:45 : client: [1] closed
+Dec 04 20:48 : client: [2] opened from [::1]:39470
+Dec 04 20:49 : exception: Stored playlists are disabled
+Dec 04 20:49 : client: [2] closed
+Dec 04 20:52 : exception: Failed to commit /home/abhiram/.mpd/state: File exists
+Dec 04 20:52 : exception: Failed to commit /home/abhiram/.mpd/state: File exists

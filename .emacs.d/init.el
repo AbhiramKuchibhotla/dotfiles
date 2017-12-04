@@ -234,8 +234,9 @@
   :defer t 
   :config ;;(add-hook 'rust-mode-hook #'flycheck-mode)
   (add-hook 'rust-mode-hook #'racer-mode)
+  (add-hook 'racer-mode-hook #'eldoc-mode)
   (add-hook 'rust-mode-hook #'company-mode)
-  (define-key rust-mode-map (kbd "M-.") #'racer-find-definition)
+  (define-key rust-mode-map (kbd "M-.") #'racer-find-definition))
 
 (use-package 
   cargo 
