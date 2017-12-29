@@ -33,6 +33,8 @@
 (global-set-key (kbd "C-c e") 'eshell) ;; Emacs shell shortcut
 (global-prettify-symbols-mode +1) ;; Make symbols pretty e.g. lamba
 (global-set-key (kbd "C-S-v") 'yank) ;; Make Pasting slightly better
+(global-set-key (kbd "C-S-x") 'kill-region) ;; Make Cutting slightly easier
+(global-set-key (kbd "C-S-c") 'kill-ring-save) ;; Make Copying slightly easier
 
 ;; Close everything without closing Emacs
 (defun close-all-buffers () 
@@ -283,6 +285,12 @@
 	 ("\\.markdown\\'" . markdown-mode)) 
   :init (setq markdown-command "multimarkdown"))
 
+;; rpm-spec mode for Making RPMs
+(use-package
+  rpm-spec-mode
+  :mode (("\\.spec\\'" . rpm-spec-mode))
+ )
+
 ;; Emacs org mode, markdown on steroids
 (use-package 
   org 
@@ -326,7 +334,9 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(delete-selection-mode nil)
- '(package-selected-packages (quote (rust-mode company-ansible use-package))))
+ '(package-selected-packages
+   (quote
+    (rpm-spec-mode rust-mode company-ansible use-package))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
