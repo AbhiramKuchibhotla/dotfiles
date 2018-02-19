@@ -8,10 +8,10 @@ feh --bg-scale /home/abhiram/Pictures/Wallpapers/wallhaven-575188.png
 compton &
 
 #Start the Dock
-plank &
+#plank &
 
 #Start the Panel (xfce4-panel)
-xfce4-panel &
+#xfce4-panel &
 
 #Start the Network Manager Applet
-nm-applet &
+#nm-applet &

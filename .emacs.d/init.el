@@ -327,6 +327,14 @@
 ;; Ansible Company
 (use-package
   company-ansible)
+
+(use-package
+  virtualenv)
+
+(use-package
+  company-jedi)
+
+(add-to-list 'company-backends 'company-jedi)
 ;;---------------------
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -336,7 +344,7 @@
  '(delete-selection-mode nil)
  '(package-selected-packages
    (quote
-    (rpm-spec-mode rust-mode company-ansible use-package))))
+    (virtualenv company-jedi python-mode rpm-spec-mode rust-mode company-ansible use-package))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

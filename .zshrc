@@ -35,6 +35,7 @@ antigen apply
 #Exports
 export TERM="xterm-256color"
 export EDITOR="nvim"
+export VAGRANT_DEFAULT_PROVIDER=virtualbox
 unsetopt nomatch
 
 #Aliases
@@ -45,3 +46,10 @@ alias urlshort='curl -F c=@- https://ptpb.pw/u <<<'
 alias s3put='s3-parallel-put'
 alias killnvidia='rmmod nvidia_drm nvidia_modeset nvidia'
 alias mp3down='youtube-dl --extract-audio --audio-format mp3'
+alias startsocks='ssh -TND 4711 abhiram@thunderfall.net'
+alias connectsocks='export http_proxy=socks5://127.0.0.1:4711 https_proxy=socks5://127.0.0.1:4711'
+function secure_chromium {
+    port=4711
+    chromium-browser --proxy-server="socks://localhost:$port" &
+    exit
+}
