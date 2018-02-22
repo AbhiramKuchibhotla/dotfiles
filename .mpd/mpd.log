@@ -5431,3 +5431,8 @@ Jan 30 15:27 : client: [1] opened from 127.0.0.1:33268
 Jan 30 15:29 : player: played "Kimi No Na Wa/01 - Yume Tourou.mp3"
 Jan 30 15:29 : client: [1] closed
 Jan 30 16:55 : exception: "pulse audio" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Feb 21 18:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 18:50 : config: option 'device' on line 13 was not recognized
+Feb 21 18:50 : client: [0] opened from 127.0.0.1:50094
+Feb 21 18:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 18:57 : client: [0] closed
