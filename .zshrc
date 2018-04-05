@@ -34,7 +34,7 @@ antigen apply
 
 #Exports
 export TERM="xterm-256color"
-export EDITOR="nvim"
+export EDITOR="vi"
 export VAGRANT_DEFAULT_PROVIDER=virtualbox
 unsetopt nomatch
 
