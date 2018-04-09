@@ -180,6 +180,10 @@
   (recentf-mode 1) 
   :bind ("C-x C-r" . recentf-open-files))
 
+;; toc-org
+(use-package
+  toc-org)
+
 ;; Completion framework for text
 (use-package 
   company 
@@ -344,7 +348,7 @@
  '(delete-selection-mode nil)
  '(package-selected-packages
    (quote
-    (virtualenv company-jedi python-mode rpm-spec-mode rust-mode company-ansible use-package))))
+    (toc-org virtualenv company-jedi python-mode rpm-spec-mode rust-mode company-ansible use-package))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
