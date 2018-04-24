@@ -1,8 +1,9 @@
-sw_volume: 52
+sw_volume: 35
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
-state: stop
-current: 15
+state: pause
+current: 16
+time: 1.346000
 random: 0
 repeat: 0
 single: 0
@@ -17,14 +18,15 @@ playlist_begin
 3:Fairy Tail - Dragon Slayer Theme ♪-aXmXjxk7onM.mp3
 4:Fairy Tail Theme (Violin Cover) Taylor Davis-o87hNhgfZvI.mp3
 5:Starlyte & Jim Yosef - Draconis-yRs9nevwmbs.mp3
-6:Mickey Valen ft. Noé - Meet Me-1j-PdKGz0qQ.mp3
-7:Scars To Your Beautiful - REBECCA BLACK & KHS - Alessia Cara Cover-ws4nNy3_0yw.mp3
-8:[Undertale Remix] SharaX - Battle Against A True Hero-DurGJTiMJD8.mp3
-9:Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3
-10:Transistor OST/Transistor OST - Old Friends.mp3
-11:Transistor OST/Transistor OST - Traces.mp3
+6:Transistor OST/Transistor OST - Traces.mp3
+7:Mickey Valen ft. Noé - Meet Me-1j-PdKGz0qQ.mp3
+8:Scars To Your Beautiful - REBECCA BLACK & KHS - Alessia Cara Cover-ws4nNy3_0yw.mp3
+9:[Undertale Remix] SharaX - Battle Against A True Hero-DurGJTiMJD8.mp3
+10:Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3
+11:Transistor OST/Transistor OST - Old Friends.mp3
 12:Transistor OST/Transistor OST - Paper Boats.mp3
 13:01 tank !.mp3
 14:Jim Yosef - Link [NCS Release]-L0tfnhacciE.mp3
 15:The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/01 Jeremy Soule - Dragonborn.mp3
+16:01. Chain.mp3
 playlist_end

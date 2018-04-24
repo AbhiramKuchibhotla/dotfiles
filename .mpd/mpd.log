@@ -5780,3 +5780,294 @@ Mar 20 18:51 : exception: Failed to open /home/abhiram/.mpd/playlists: No such f
 Mar 20 18:55 : player: played "01 tank !.mp3"
 Mar 20 18:59 : player: played "The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/01 Jeremy Soule - Dragonborn.mp3"
 Mar 20 19:00 : client: [3] closed
+Apr 20 21:35 : config: option 'device' on line 13 was not recognized
+Apr 20 21:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 20 21:35 : client: [0] opened from 127.0.0.1:39830
+Apr 20 21:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 20 21:36 : update: updating /[Undertale Remix] SharaX - Battle Against A True Hero-DurGJTiMJD8.mp3
+Apr 20 21:36 : update: updating /Steve James ft. LIGHTS - Warrior (Zephure Remix)-6q_cjW6PRYM.mp3
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/06-glen_campbell-southern_nights.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/08-looking_glass-brandy_(youre_a_fine_girl).flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/05-sam_cooke-bring_it_on_home_to_me.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/10-silver-wham_bam_shang-a-lang.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/03-aliotta_haynes_jeremiah-lake_shore_drive.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/13-parliament-flash_light.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/07-george_harrison-my_sweet_lord.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/12-cat_stevens-father_and_son.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/01-electric_light_orchestra-mr._blue_sky.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/04-fleetwood_mac-the_chain.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/02-the_sweet-fox_on_the_run.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/14-the_sneepers_ft._david_hasselhoff-guardians_inferno.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/09-jay_and_the_americans-come_a_little_bit_closer.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/11-cheap_trick-surrender.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/106-10cc-im_not_in_love.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/227-tyler_bates-black_tears.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/210-tyler_bates-the_new_meat.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/216-tyler_bates-the_road_to_knowhere.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/101-blue_swede-hooked_on_a_feeling.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/111-the_five_stairsteps-o-o-h_child.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/228-tyler_bates-citizens_unite.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/223-tyler_bates-groot_spores.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/103-norman_greenbaum-spirit_in_the_sky.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/211-tyler_bates-the_destroyer.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/209-tyler_bates-busted.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/104-david_bowie-moonage_daydream.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/105-elvin_bishop-fooled_around_and_fell_in_love.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/205-tyler_bates-to_the_stars.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/221-tyler_bates-we_all_got_dead_people.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/224-tyler_bates-guardians_united.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/110-rupert_holmes-escape_(the_pina_colada_song).flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/212-tyler_bates-sanctuary.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/229-tyler_bates-a_nova_upgrade.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/206-tyler_bates-ronans_theme.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/107-the_jackson_5-i_want_you_back.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/217-tyler_bates-the_collector.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/226-tyler_bates-groot_cocoon.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/222-tyler_bates-the_ballad_of_the_nova_corps._(instrumental).flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/215-tyler_bates-the_great_companion.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/201-tyler_bates-morag.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/214-tyler_bates-dont_mess_with_my_walkman.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/207-tyler_bates-everyones_an_idiot.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/218-tyler_bates-ronans_arrival.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/109-the_runaways-cherry_bomb.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/225-tyler_bates-the_big_blast.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/202-tyler_bates-the_final_battle_begins.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/208-tyler_bates-what_a_bunch_of_a-holes.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/108-redbone-come_and_get_your_love.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/112-marvin_gaye_and_tammi_terrell-aint_no_mountain_high_enough.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/213-tyler_bates-the_kyln_escape.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/204-tyler_bates-quills_big_retreat.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/219-tyler_bates-the_pod_chase.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/203-tyler_bates-plasma_ball.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/102-the_raspberries-go_all_the_way.flac
+Apr 20 21:36 : update: updating VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/220-tyler_bates-sacrifice.flac
+Apr 20 21:36 : update: updating /Jim Yosef - Link [NCS Release]-L0tfnhacciE.mp3
+Apr 20 21:36 : update: updating /Taryn Manning - GLTCHLFE (KDrew Radio Edit)-Y1nqfSEYh7Y.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/20 Fate Calls.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/01 The Trail.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/26 Drink Up, There_s More!.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/14 The Hunter's Path.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/34 Merchants of Novigrad.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/11 Whispers of Oxenfurt.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/33 Ladies of the Woods.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/23 Forged in Fire.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/25 Welcome, Imlerith.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/10 Silver for Monsters....mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/08 Spikeroog.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/03 Eredin, King of the Hunt.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/12 The Nightingale.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/27 After the Storm.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/16 Kaer Morhen.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/35 Hunt Or Be Hunted.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/30 The Song of the Swordâ€“Dancer.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/32 The Fields of Ard Skellig.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/29 Farewell, Old Friend.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/21 The Vagabond.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/09 King Bran's Final Voyage.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/04 Wake Up, Ciri.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/19 ...Steel for Humans.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/22 Cloak and Dagger.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/18 Witch Hunters.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/13 City of Intrigues.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/17 Eyes of the Wolf.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/31 The Hunt is Coming.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/05 Aen Seidhe.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/28 Blood on the Cobblestones.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/24 Yes, I Do....mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/06 Commanding the Fury.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/07 Emhyr var Emreis.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/15 Widow-maker.mp3
+Apr 20 21:36 : update: updating The Witcher 3 Wild Hunt Original Soundtrack/The_Witcher_3_Wild_Hunt_-_Official_Soundtrack_(steam_edition)_mp3/02 Geralt of Rivia.mp3
+Apr 20 21:36 : update: updating /He's a Pirate (Disney's Pirates of the Caribbean Theme) Violin Cover - Taylor Davis-ZnJ7uOK4nYg.mp3
+Apr 20 21:36 : update: updating /IT AIN'T ME - Selena Gomez & Kygo - LINDSEY STIRLING & KHS Cover-nPIhkOE8EnI.mp3
+Apr 20 21:36 : update: updating /NEFFEX - Backstage-SZ6fhg3hbhY.mp3
+Apr 20 21:36 : update: updating /Lauv - Easy Love-FKP8o6lVBdk.mp3
+Apr 20 21:36 : update: updating /Galantis - Hunter (RudeLies ReBoot)-tgPDbASJEzo.mp3
+Apr 20 21:36 : update: updating /TheFatRat - Xenogenesis-3_-a9nVZYjk.mp3
+Apr 20 21:36 : update: updating /Scars To Your Beautiful - REBECCA BLACK & KHS - Alessia Cara Cover-ws4nNy3_0yw.mp3
+Apr 20 21:36 : update: updating /07 The Legend of Zelda Main Theme Me.mp3
+Apr 20 21:36 : update: updating /Krewella - Be There-U46GMF6r4zY.mp3
+Apr 20 21:36 : update: updating /Fairy Tail Natsu's Theme Extended-AhevjjbvWmw.mp3
+Apr 20 21:36 : update: updating /01. Chain.mp3
+Apr 20 21:36 : exception: Failed to open /home/abhiram/.mpd/playlists: No such file or directory
+Apr 20 21:36 : update: updating Hollow Knight OST/17 - Hollow Knight - Queen's Gardens (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/11 - Hollow Knight - Fungal Wastes (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/05 - Hollow Knight - Reflection (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/25 - Hollow Knight - Main Theme (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/18 - Hollow Knight - Nosk (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/23 - Hollow Knight - White Palace (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/26 - Hollow Knight - Sealed Vessel (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/14 - Hollow Knight - Soul Sanctum (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/21 - Hollow Knight - Dream (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/04 - Hollow Knight - False Knight (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/10 - Hollow Knight - Dung Defender (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/15 - Hollow Knight - The White Lady (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/19 - Hollow Knight - Kingdom's Edge (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/22 - Hollow Knight - Dream Battle (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/08 - Hollow Knight - Greenpath (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/12 - Hollow Knight - Decisive Battle (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/24 - Hollow Knight - Radiance (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/09 - Hollow Knight - Mantis Lords (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/16 - Hollow Knight - Resting Grounds (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/03 - Hollow Knight - Crossroads (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/07 - Hollow Knight - City of Tears (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/02 - Hollow Knight - Dirtmouth (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/13 - Hollow Knight - Crystal Peak (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/06 - Hollow Knight - Hornet (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Hollow Knight OST/20 - Hollow Knight - Broken Vessel (Soundtrack OST).mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 15 - Reflection.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 09 - Golden.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 21 - My Dearest Friends.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 19 - Exhale.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 05 - Postcard from Celeste Mountain.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 06 - Checking In.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 14 - Starjump.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 13 - Madeline and Theo.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 04 - Awake.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 10 - Anxiety.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 02 - First Steps.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 07 - Spirit of Hospitality.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 20 - Heart of the Mountain.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 01 - Prologue.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 11 - Quiet and Falling.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 03 - Resurrections.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 18 - Reach for the Summit.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 12 - In the Mirror.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 16 - Confronting Myself.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 17 - Little Goth.mp3
+Apr 20 21:36 : update: updating Celeste OST/[Official] Celeste Original Soundtrack - 08 - Scattered and Lost.mp3
+Apr 20 21:36 : update: updating /TeZATalks - Find Me-Em2JrUybWvM.mp3
+Apr 20 21:36 : update: updating /[Undertale Remix] SharaX - Heartache-ya_8SqIJufs.mp3
+Apr 20 21:36 : update: updating /Porter Robinson & Madeon - Shelter-Ts8YP6hhELU.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/14 - Kieta Machi.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/07 - Futari no Ihen.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/04 - Hajimete no, Tokyo.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/23 - Kata Wareji.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/05 - Akogare Cafe.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/13 - Hida Tanbou.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/20 - Chouchou Settoku.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/22 - Mienai Futari.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/01 - Yume Tourou.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/03 - Ito Mamoru Koukou.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/12 - Kioku o Yobiokosu Taki.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/24 - Sparkle (Movie Ver.).mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/06 - Okudera Senpai no Theme.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/10 - Date.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/21 - Mitsuba no Theme.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/19 - Sakusen Kaigi.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/26 - Nan Demonai ya (Movie Edit).mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/16 - Yume Tourou.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/18 - Kuchikamishu Trip.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/02 - Mitsuba no Tsuugaku.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/11 - Akimatsuri.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/15 - Toshokan.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/09 - Gojintai.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/25 - Date 2.mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/08 - Zen Zen Zense (Movie Ver.).mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/27 - Nan Demonai ya (Movie Ver.).mp3
+Apr 20 21:36 : update: updating Kimi No Na Wa/17 - Gojintai e Futatabi.mp3
+Apr 20 21:36 : update: updating /MYRNE - Confessions (feat. Cozi Zuehlsdorff)-7U60zQ_3KTU.mp3
+Apr 20 21:36 : update: updating /Song of Time and Song of Storms (Zelda OoT) Violin Cover - Taylor Davis-CIXCL5VR9Ho.mp3
+Apr 20 21:36 : update: updating /01 Despacito (feat. Daddy Yankee).mp3
+Apr 20 21:36 : update: updating /[Undertale Remix] SharaX - Megalotrousle-kf692zBUOac.mp3
+Apr 20 21:36 : update: updating /Star Wars Medley (Violin Cover) - Taylor Davis-qzQahpxucKk.mp3
+Apr 20 21:36 : update: updating From Discord/Martin Garrix & David Guetta - So Far Away (feat. Jamie Scott & Romy Dya)-hEsQqiTVdzw.mp3
+Apr 20 21:36 : update: updating From Discord/Phantom Sage - Holystone-gnZXoRb--z4.mp3
+Apr 20 21:36 : update: updating From Discord/Anne-Marie - Alarm (Marshmello Remix)-VscXxmjsWbE.mp3
+Apr 20 21:36 : update: updating From Discord/Obsidia - Beautiful (ft. CoMa)-le73oi_JCrk.mp3
+Apr 20 21:36 : update: updating From Discord/Vonikk - Mammoth-T_ejJ6-feRY.mp3
+Apr 20 21:36 : update: updating From Discord/Lookas x Krewella - Alarm-iNNgsvGyAJE.mp3
+Apr 20 21:36 : update: updating /FusionNFire - What We Were-RsQsjVg8Dn0.mp3
+Apr 20 21:36 : update: updating /TheFatRat - Unity-n8X9_MgEdCg.mp3
+Apr 20 21:36 : update: updating /PLS&TY - Run Wild-4d3C3IfUd60.mp3
+Apr 20 21:36 : update: updating /Fairy Tail Theme (Violin Cover) Taylor Davis-o87hNhgfZvI.mp3
+Apr 20 21:36 : update: updating /Fairy Tail - Dragon Slayer Theme ♪-aXmXjxk7onM.mp3
+Apr 20 21:36 : update: updating /CloZee - Secret Place-soLrXM0EQ8c.mp3
+Apr 20 21:36 : update: updating /[Undertale Remix] SharaX - Megalovania-nDg-EYvI00o.mp3
+Apr 20 21:36 : update: updating /Alan Walker - Faded-60ItHLz5WEA.mp3
+Apr 20 21:36 : update: updating /Hotel Garuda ft. Violet Days - Fixed On You-_eVDKEL2nJw.mp3
+Apr 20 21:36 : update: updating /Starlyte & Jim Yosef - Draconis-yRs9nevwmbs.mp3
+Apr 20 21:36 : update: updating /Tubthumping (I Get Knocked Down) Lyrics-LODkVkpaVQA.mp3
+Apr 20 21:36 : update: updating /Mickey Valen ft. Noé - Meet Me-1j-PdKGz0qQ.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/06 Jeremy Soule - Far Horizons.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/02 Jeremy Soule - Night without Stars.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/01 Jeremy Soule - Frostfall.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/10 Jeremy Soule - One They Fear.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/07 Jeremy Soule - A Winter's Tale.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/08 Jeremy Soule - The Bannered Mare.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/14 Jeremy Soule - Beneath the Ice.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/04 Jeremy Soule - Kyne's Peace.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/11 Jeremy Soule - The White River.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/13 Jeremy Soule - Standing Stones.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/05 Jeremy Soule - Unbound.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/12 Jeremy Soule - Silence Unbroken.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/09 Jeremy Soule - The Streets of Whiterun.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/16 Jeremy Soule - Journey's End.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/15 Jeremy Soule - Tundra.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD2/03 Jeremy Soule - Into Darkness.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/16 Jeremy Soule - Steel on Steel.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/05 Jeremy Soule - Ancient Stones.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/03 Jeremy Soule - From Past to Present.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/18 Jeremy Soule - Imperial Throne.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/17 Jeremy Soule - Secunda.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/09 Jeremy Soule - Tooth and Claw.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/10 Jeremy Soule - Under an Ancient Sun.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/11 Jeremy Soule - Death or Sovngarde.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/15 Jeremy Soule - The Jerall Mountains.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/04 Jeremy Soule - Unbroken Road.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/06 Jeremy Soule - The City Gates.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/13 Jeremy Soule - Distant Horizons.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/07 Jeremy Soule - Silent Footsteps.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/08 Jeremy Soule - Dragonsreach.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/14 Jeremy Soule - Dawn.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/02 Jeremy Soule - Awake.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/01 Jeremy Soule - Dragonborn.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/12 Jeremy Soule - Masser.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/08 Jeremy Soule - Blood and Steel.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/06 Jeremy Soule - Caught off Guard.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/17 Jeremy Soule - Sovngarde.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/11 Jeremy Soule - Solitude.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/07 Jeremy Soule - Aurora.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/01 Jeremy Soule - Before the Storm.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/12 Jeremy Soule - Watch the Skies.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/10 Jeremy Soule - Seven Thousand Steps.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/16 Jeremy Soule - Shattered Shields.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/13 Jeremy Soule - The Gathering Storm.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/18 Jeremy Soule - Wind Guide You.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/09 Jeremy Soule - Towers and Shadows.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/14 Jeremy Soule - Sky Above, Voice Within.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/15 Jeremy Soule - Death in the Darkness.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/04 Jeremy Soule - Around the Fire.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/03 Jeremy Soule - Out of the Cold.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/05 Jeremy Soule - Shadows and Echoes.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD3/02 Jeremy Soule - A Chance Meeting.mp3
+Apr 20 21:36 : update: updating The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD4/cd4 01 Jeremy Soule - Skyrim Atmospheres.mp3
+Apr 20 21:36 : update: updating Initial D OST's/Initial D Super Euro Best (c)/Initial D Super Euro Best - 13 - Deja Vu [New Generation Remix].mp3
+Apr 20 21:36 : update: updating /'Demons' - Imagine Dragons - Tyler Ward & Kina Grannis Cover - Music Video-qZaCtJc07RI.mp3
+Apr 20 21:36 : update: updating /Krewella - Love Outta Me-xVpdYUlfREk.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Traces.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Vanishing Point.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Cut Apart.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Heightmap.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Coasting.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Stained Glass.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Impossible.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Interlace.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Forecast.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Water Wall.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Tangent.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Paper Boats.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Gateless.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Signals.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - The Spine.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Apex Beat.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - We All Become.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Dormant.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Old Friends.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - In Circles.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Blank Canvas.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Sandbox.mp3
+Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Gold Leaf.mp3
+Apr 20 21:36 : exception: Failed to open /home/abhiram/.mpd/playlists: No such file or directory
+Apr 20 21:36 : client: [0] closed
