@@ -6071,3 +6071,50 @@ Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Sandbox.mp3
 Apr 20 21:36 : update: updating Transistor OST/Transistor OST - Gold Leaf.mp3
 Apr 20 21:36 : exception: Failed to open /home/abhiram/.mpd/playlists: No such file or directory
 Apr 20 21:36 : client: [0] closed
+May 02 13:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 13:46 : config: option 'device' on line 13 was not recognized
+May 02 13:46 : client: [0] opened from 127.0.0.1:36784
+May 02 13:47 : client: [0] closed
+May 02 13:49 : client: [1] opened from 127.0.0.1:36854
+May 02 13:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 02 13:53 : exception: Failed to open /home/abhiram/.mpd/playlists: No such file or directory
+May 02 13:53 : player: played "01. Chain.mp3"
+May 02 13:55 : player: played "Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3"
+May 02 13:58 : player: played "Transistor OST/Transistor OST - Old Friends.mp3"
+May 02 14:02 : player: played "Hollow Knight OST/06 - Hollow Knight - Hornet (Soundtrack OST).mp3"
+May 02 14:02 : exception: Failed to open /home/abhiram/.mpd/playlists: No such file or directory
+May 02 14:03 : player: played "Celeste OST/[Official] Celeste Original Soundtrack - 01 - Prologue.mp3"
+May 02 14:04 : exception: Failed to open /home/abhiram/.mpd/playlists: No such file or directory
+May 02 14:11 : player: played "01. Chain.mp3"
+May 02 14:17 : player: played "[Undertale Remix] SharaX - Battle Against A True Hero-DurGJTiMJD8.mp3"
+May 02 14:19 : player: played "Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3"
+May 02 14:23 : player: played "Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3"
+May 02 14:52 : client: [1] closed
+May 03 16:45 : client: [2] opened from 127.0.0.1:46512
+May 03 16:49 : exception: Failed to open /home/abhiram/.mpd/playlists: No such file or directory
+May 03 16:51 : player: played "Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3"
+May 03 16:54 : player: played "Hollow Knight OST/06 - Hollow Knight - Hornet (Soundtrack OST).mp3"
+May 03 16:59 : player: played "Transistor OST/Transistor OST - Old Friends.mp3"
+May 03 17:03 : exception: Failed to open /home/abhiram/.mpd/playlists: No such file or directory
+May 15 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 11:20 : config: option 'device' on line 13 was not recognized
+May 15 11:20 : client: [0] opened from 127.0.0.1:51228
+May 15 11:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 15 11:23 : player: played "Hollow Knight OST/06 - Hollow Knight - Hornet (Soundtrack OST).mp3"
+May 15 11:25 : player: played "Kimi No Na Wa/01 - Yume Tourou.mp3"
+May 15 18:37 : client: [0] closed
+May 16 20:46 : exception: "pulse audio" [pulse] failed to pause: failed to connect the stream: Connection terminated
+May 16 20:46 : player: played "Alan Walker - Faded-60ItHLz5WEA.mp3"
+May 23 17:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 17:42 : config: option 'device' on line 13 was not recognized
+May 23 17:42 : client: [0] opened from 127.0.0.1:38430
+May 23 17:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 23 17:49 : player: played "Jim Yosef - Link [NCS Release]-L0tfnhacciE.mp3"
+May 23 17:53 : player: played "The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/01 Jeremy Soule - Dragonborn.mp3"
+May 23 17:54 : player: played "Celeste OST/[Official] Celeste Original Soundtrack - 01 - Prologue.mp3"
+May 23 22:17 : client: [0] closed
+May 27 13:37 : client: [1] opened from 127.0.0.1:52810
+May 27 13:39 : player: played "Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3"
+May 27 13:42 : player: played "Hollow Knight OST/06 - Hollow Knight - Hornet (Soundtrack OST).mp3"
+May 27 13:44 : player: played "Transistor OST/Transistor OST - Traces.mp3"
+May 27 15:01 : client: [1] closed

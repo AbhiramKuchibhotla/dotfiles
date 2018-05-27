@@ -1,9 +1,9 @@
-sw_volume: 35
+sw_volume: 61
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 16
-time: 1.346000
+current: 7
+time: 61.642000
 random: 0
 repeat: 0
 single: 0
@@ -22,11 +22,15 @@ playlist_begin
 7:Mickey Valen ft. Noé - Meet Me-1j-PdKGz0qQ.mp3
 8:Scars To Your Beautiful - REBECCA BLACK & KHS - Alessia Cara Cover-ws4nNy3_0yw.mp3
 9:[Undertale Remix] SharaX - Battle Against A True Hero-DurGJTiMJD8.mp3
-10:Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3
-11:Transistor OST/Transistor OST - Old Friends.mp3
-12:Transistor OST/Transistor OST - Paper Boats.mp3
-13:01 tank !.mp3
-14:Jim Yosef - Link [NCS Release]-L0tfnhacciE.mp3
-15:The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/01 Jeremy Soule - Dragonborn.mp3
+10:Transistor OST/Transistor OST - Old Friends.mp3
+11:Transistor OST/Transistor OST - Paper Boats.mp3
+12:01 tank !.mp3
+13:Jim Yosef - Link [NCS Release]-L0tfnhacciE.mp3
+14:The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/01 Jeremy Soule - Dragonborn.mp3
+15:Celeste OST/[Official] Celeste Original Soundtrack - 01 - Prologue.mp3
 16:01. Chain.mp3
+17:FusionNFire - What We Were-RsQsjVg8Dn0.mp3
+18:Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3
+19:Hollow Knight OST/06 - Hollow Knight - Hornet (Soundtrack OST).mp3
+20:VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/101-blue_swede-hooked_on_a_feeling.flac
 playlist_end
