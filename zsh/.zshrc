@@ -1,4 +1,4 @@
-source /home/abhiram/Git/antigen.zsh
+source /home/abhiram/.dotfiles/antigen.zsh
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
 HISTSIZE=1000
