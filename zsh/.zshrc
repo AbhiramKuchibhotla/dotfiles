@@ -45,3 +45,12 @@ alias urlshort='curl -F c=@- https://ptpb.pw/u <<<'
 alias s3put='s3-parallel-put'
 alias killnvidia='rmmod nvidia_drm nvidia_modeset nvidia'
 alias mp3down='youtube-dl --extract-audio --audio-format mp3 --embed-thumbnail'
+
+LS_COLORS=$LS_COLORS:'di=0;33:' ; export LS_COLORS
+
+#Android Studio Exports
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+export PATH=$PATH:$ANDROID_HOME/emulator

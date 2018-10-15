@@ -1,10 +1,10 @@
-sw_volume: 61
+sw_volume: 62
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: pause
-current: 7
-time: 61.642000
-random: 0
+current: 72
+time: 168.661000
+random: 1
 repeat: 0
 single: 0
 consume: 0
@@ -12,25 +12,77 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Kimi No Na Wa/01 - Yume Tourou.mp3
-1:Alan Walker - Faded-60ItHLz5WEA.mp3
-2:CloZee - Secret Place-soLrXM0EQ8c.mp3
-3:Fairy Tail - Dragon Slayer Theme ♪-aXmXjxk7onM.mp3
-4:Fairy Tail Theme (Violin Cover) Taylor Davis-o87hNhgfZvI.mp3
-5:Starlyte & Jim Yosef - Draconis-yRs9nevwmbs.mp3
-6:Transistor OST/Transistor OST - Traces.mp3
-7:Mickey Valen ft. Noé - Meet Me-1j-PdKGz0qQ.mp3
-8:Scars To Your Beautiful - REBECCA BLACK & KHS - Alessia Cara Cover-ws4nNy3_0yw.mp3
-9:[Undertale Remix] SharaX - Battle Against A True Hero-DurGJTiMJD8.mp3
-10:Transistor OST/Transistor OST - Old Friends.mp3
-11:Transistor OST/Transistor OST - Paper Boats.mp3
-12:01 tank !.mp3
-13:Jim Yosef - Link [NCS Release]-L0tfnhacciE.mp3
-14:The Elder Scrolls V Skyrim Original Soundtrack (4CD) (2011) [WwW.ZoNaTorrent.CoM]/CD1/01 Jeremy Soule - Dragonborn.mp3
-15:Celeste OST/[Official] Celeste Original Soundtrack - 01 - Prologue.mp3
-16:01. Chain.mp3
-17:FusionNFire - What We Were-RsQsjVg8Dn0.mp3
-18:Hollow Knight OST/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3
-19:Hollow Knight OST/06 - Hollow Knight - Hornet (Soundtrack OST).mp3
+0:Hollow Knight Soundtrack/01 - Hollow Knight - Enter Hallownest (Soundtrack OST).mp3
+1:Hollow Knight Soundtrack/02 - Hollow Knight - Dirtmouth (Soundtrack OST).mp3
+2:Hollow Knight Soundtrack/03 - Hollow Knight - Crossroads (Soundtrack OST).mp3
+3:Hollow Knight Soundtrack/06 - Hollow Knight - Hornet (Soundtrack OST).mp3
+4:Hollow Knight Soundtrack/07 - Hollow Knight - City of Tears (Soundtrack OST).mp3
+5:Hollow Knight Soundtrack/08 - Hollow Knight - Greenpath (Soundtrack OST).mp3
+6:Hollow Knight Soundtrack/09 - Hollow Knight - Mantis Lords (Soundtrack OST).mp3
+7:Hollow Knight Soundtrack/13 - Hollow Knight - Crystal Peak (Soundtrack OST).mp3
+8:Hollow Knight Soundtrack/14 - Hollow Knight - Soul Sanctum (Soundtrack OST).mp3
+9:Hollow Knight Soundtrack/15 - Hollow Knight - The White Lady (Soundtrack OST).mp3
+10:Hollow Knight Soundtrack/25 - Hollow Knight - Main Theme (Soundtrack OST).mp3
+11:Daft Punk - Discovery/01 - One More Time (feat. Romanthony).flac
+12:Daft Punk - Discovery/03 - Digital Love.flac
+13:Daft Punk - Discovery/04 - Harder, Better, Faster, Stronger.flac
+14:Daft Punk - Random Access Memories (2013) [FLAC]/08 - Get Lucky.flac
+15:Initial D - Best Selection/01 - Space Boy.mp3
+16:Initial D - Best Selection/06 - Running In The 90's.mp3
+17:Initial D - Best Selection/Initial D S_ction 3 - 01 - Night Of Fire - Initial D.mp3
+18:Initial D - Best Selection/28 - No One Sleep In Tokyo.mp3
+19:Initial D - Best Selection/27 - Deja Vu.mp3
 20:VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/101-blue_swede-hooked_on_a_feeling.flac
+21:VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/110-rupert_holmes-escape_(the_pina_colada_song).flac
+22:VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/112-marvin_gaye_and_tammi_terrell-aint_no_mountain_high_enough.flac
+23:VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 1/222-tyler_bates-the_ballad_of_the_nova_corps._(instrumental).flac
+24:VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/02-the_sweet-fox_on_the_run.flac
+25:VA Guardians Of The Galaxy VOL. 1 and 2 [OST FLAC CD] 1914/Guardians of the Galaxy 2/04-fleetwood_mac-the_chain.flac
+26:[Undertale Remix] SharaX - Battle Against A True Hero-DurGJTiMJD8.mp3
+27:[Undertale Remix] SharaX - Heartache-ya_8SqIJufs.mp3
+28:[Undertale Remix] SharaX - Megalotrousle-kf692zBUOac.mp3
+29:[Undertale Remix] SharaX - Megalovania-nDg-EYvI00o.mp3
+30:01 - Yume Tourou.mp3
+31:01 tank !.mp3
+32:01. Chain.mp3
+33:02 Geralt of Rivia.flac
+34:07 The Legend of Zelda Main Theme Me.mp3
+35:16 Kaer Morhen.flac
+36:Boku no Hero Academia Opening 2-xZe9GsuwHqA.mp3
+37:CloZee - Secret Place-soLrXM0EQ8c.mp3
+38:CMC$  - Love Parade (feat. Jenny March)-1uaHHAYvSi4.mp3
+39:Daft Punk - Harder, Better, Faster, Stronger (Far Out Remix).wav
+40:Fairy Tail Theme (Violin Cover) Taylor Davis-o87hNhgfZvI.mp3
+41:FusionNFire - What We Were-RsQsjVg8Dn0.mp3
+42:Galantis - Hunter (RudeLies ReBoot)-tgPDbASJEzo.mp3
+43:Goose House - Hikaru Nara [Lyrics][EnglishTranslation]-p5kc8hJ3GcA.mp3
+44:He's a Pirate (Disney's Pirates of the Caribbean Theme) Violin Cover - Taylor Davis-ZnJ7uOK4nYg.mp3
+45:Hotel Garuda ft. Violet Days - Fixed On You-_eVDKEL2nJw.mp3
+46:IT AIN'T ME - Selena Gomez & Kygo - LINDSEY STIRLING & KHS Cover-nPIhkOE8EnI.mp3
+47:Jim Yosef - Link [NCS Release]-L0tfnhacciE.mp3
+48:Krewella - Be There-U46GMF6r4zY.mp3
+49:Krewella - Love Outta Me-xVpdYUlfREk.mp3
+50:Lauv - Easy Love-FKP8o6lVBdk.mp3
+51:MARNIK - Burn (feat. Rookies)-DqNvIW-us-c.mp3
+52:Mickey Valen ft. Noé - Meet Me-1j-PdKGz0qQ.mp3
+53:My Hero Academia - Official Opening--77UEct0cZM.mp3
+54:My Hero Academia Season 3 – Opening Theme-v1YojYU5nPQ.mp3
+55:MYRNE - Confessions (feat. Cozi Zuehlsdorff)-7U60zQ_3KTU.mp3
+56:NEFFEX - Backstage-SZ6fhg3hbhY.mp3
+57:Porter Robinson & Madeon - Shelter-Ts8YP6hhELU.mp3
+58:Prismo - Too Close-AwcAK8UJL54.mp3
+59:Sickick - Infected-RzRhcnN-2XQ.mp3
+60:Song of Time and Song of Storms (Zelda OoT) Violin Cover - Taylor Davis-CIXCL5VR9Ho.mp3
+61:Star Wars Medley (Violin Cover) - Taylor Davis-qzQahpxucKk.mp3
+62:Starlyte & Jim Yosef - Draconis-yRs9nevwmbs.mp3
+63:Stephen - Play Me Like A Violin-ckxLXofmFF0.mp3
+64:Steve James ft. LIGHTS - Warrior (Zephure Remix)-6q_cjW6PRYM.mp3
+65:Taryn Manning - GLTCHLFE (KDrew Radio Edit)-Y1nqfSEYh7Y.mp3
+66:TeZATalks - Find Me-Em2JrUybWvM.mp3
+67:TheFatRat - Unity-n8X9_MgEdCg.mp3
+68:TheFatRat - Xenogenesis-3_-a9nVZYjk.mp3
+69:Tubthumping (I Get Knocked Down) Lyrics-LODkVkpaVQA.mp3
+70:Wotaku ni Koi wa Muzukashii OP Full - Fiction／ Sumika-ObQd7Co7Q_I.mp3
+71:04. Make my story  (TV size).mp3
+72:Grant - The Edge (feat. Nevve)-6QtNHoKl-eA.mp3
 playlist_end
